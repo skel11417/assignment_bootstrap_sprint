@@ -1,0 +1,60 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  background-color: #fff; }
+
+@media all and (min-width: 768px) {
+  .input-box {
+    display: inline-block; } }
+.main {
+  width: 100%; }
+
+.top-nav {
+  position: fixed;
+  top: 0;
+  min-height: 50px;
+  background-color: #222;
+  width: 100%;
+  margin-bottom: 20px; }
+
+.jumbo {
+  padding-top: 48px;
+  padding-bottom: 48px;
+  background-color: #eee; }
+  .jumbo h1 {
+    font-size: 63px;
+    font-family: inherit;
+    line-height: 1.1;
+    font-weight: 500; }
+  .jumbo p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200; }
+
+.header-name {
+  text-decoration: none;
+  float: left;
+  color: #9d9d9d;
+  float: left;
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 18px;
+  line-height: 20px; }
+
+.input-box {
+  float: right;
+  margin: 8px 15px 8px 0; }
+
+.form-control {
+  vertical-align: middle;
+  border: 1px solid #ccc; }
+
+.form-wrapper {
+  float: left;
+  margin-right: 5px; }
+
+.article-content h3 {
+  font-size: 30px; }
+
+/*# sourceMappingURL=styles.css.map */
